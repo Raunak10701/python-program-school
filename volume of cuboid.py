@@ -1,0 +1,5 @@
+l=eval(input("enter length in centimetre"))
+b=eval(input("enter breadth in centimetre"))
+h=eval(input("enter height in centimetre"))
+v=(l*b*h)
+print("volume of  cuboid is",v,"cm*3")
